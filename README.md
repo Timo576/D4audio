@@ -1,6 +1,8 @@
 # Retail
 Diablo 4 - Retail Sound Files
 
+Currently down cos I dont wanna pay for it anymore. Dm gyvtuu576 on discord for the files
+
 Uses git LFS
 Dont clone whole repo lol
 
